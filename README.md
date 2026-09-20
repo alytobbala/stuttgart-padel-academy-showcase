@@ -4,14 +4,15 @@
 
 ### 👉 [LIVE DEMO](https://academy.stuttgart-padel.com)
 
-<!-- TODO: if you set up a demo login for recruiters, add it here, e.g. "Demo login: demo@… / …" (use a throwaway account with no real data). -->
-
-![Player home screen](assets/player-home.png)
-
-<p>
-  <img src="assets/booking-flow.gif" alt="Booking flow" width="48%">
-  <img src="assets/coach-dashboard.png" alt="Coach dashboard" width="48%">
+<p align="center">
+  <img src="assets/player-home.png" alt="Player home screen" width="30%">
+  <img src="assets/booking-flow.png" alt="Booking a session from the calendar" width="30%">
+  <img src="assets/payment.png" alt="Buying credits with Stripe" width="30%">
 </p>
+<p align="center"><em>Player app: home · calendar booking by skill level · credit top-up</em></p>
+
+![Coach dashboard](assets/coach-dashboard.png)
+*Coach console: sessions, players, vouchers, payments, emails and masterclasses*
 
 ---
 
@@ -86,6 +87,5 @@
 📌 **The source code is kept private** (it's a live, commercial system with real users and payments). I'm happy to give a **live code walkthrough** or screen-share — feel free to reach out:
 
 - 📧 alytobbala@gmail.com
-- 💼 LinkedIn: <!-- TODO: your LinkedIn URL -->
 
 © Aly Tobbala. All rights reserved.
