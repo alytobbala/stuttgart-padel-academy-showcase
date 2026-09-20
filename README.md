@@ -87,5 +87,6 @@
 📌 **The source code is kept private** (it's a live, commercial system with real users and payments). I'm happy to give a **live code walkthrough** or screen-share — feel free to reach out:
 
 - 📧 alytobbala@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/alytobbala/)
 
 © Aly Tobbala. All rights reserved.
